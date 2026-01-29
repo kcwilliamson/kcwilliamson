@@ -6,7 +6,7 @@ I'm a **Strategic Problem Solver who builds systematic solutions**. I don't just
 
 🌐 **Portfolio:** [katiewilliamsonsebkhi.com](https://katiewilliamsonsebkhi.com)  
 💼 **LinkedIn:** [katie-williamson-sebkhi](https://www.linkedin.com/in/katie-williamson-sebkhi-8787a85b/)  
-📧 **Email:** katiewilliamson@sebkhi.com
+📧 **Email:** thekatiewilliamson@gmail.com
 
 ---
 
@@ -193,7 +193,7 @@ I'm always open to connecting with fellow builders, leaders, and innovators.
 
 - 🌐 **Portfolio:** [katiewilliamsonsebkhi.com](https://katiewilliamsonsebkhi.com)
 - 💼 **LinkedIn:** [katie-williamson-sebkhi](https://www.linkedin.com/in/katie-williamson-sebkhi-8787a85b/)
-- 📧 **Email:** katiewilliamson@sebkhi.com
+- 📧 **Email:** thekatiewilliamson@gmail.com
 - 🐙 **GitHub:** You're already here!
 
 ---
