@@ -26,19 +26,6 @@ With over 11 years of experience spanning journalism, marketing, and product UX,
 - **Human Empathy** - User needs, accessibility, conversation architecture
 - **Operational Excellence** - Measurement, governance, scalability
 
-
----
-
-## 🛠️ Featured Projects
-
-### 🎨 [Shield AI Landing Page](https://github.com/kcwilliamson/shield-ai-landing)
-**Modern animated content protection landing page**  
-[![Live Demo](https://img.shields.io/badge/Live-shield--ai--landing.pages.dev-F38020?logo=cloudflare&logoColor=white)](https://shield-ai-landing.pages.dev)
-
-Built with Astro, React, and GSAP. Features advanced animations, interactive protection level slider, video carousel, and comprehensive educational content about AI training data protection.
-
-**Tech:** TypeScript, Astro, React, GSAP, Tailwind CSS, Cloudflare Pages
-
 ---
 
 ### 💼 [Personal Portfolio 2026](https://github.com/kcwilliamson/portfolio-2026)
@@ -48,66 +35,6 @@ Built with Astro, React, and GSAP. Features advanced animations, interactive pro
 Comprehensive portfolio highlighting my work in UX Content Strategy, AI/ML projects, CloudSpeaker platform, conversation architecture frameworks, and team leadership.
 
 **Tech:** Astro, TypeScript, Cloudflare Pages
-
----
-
-### 📚 [Cooking with Cloudflare](https://github.com/kcwilliamson/cooking-with-cloudflare)
-**Interactive learning platform for Cloudflare tutorials**  
-🔧 *In Development*
-
-Inspired by NYT Cooking - step-by-step guides and video tutorials for Cloudflare products. Makes complex technical concepts approachable and actionable.
-
-**Tech:** TypeScript, Interactive UI, Video Integration
-
----
-
-### 🧠 [Smart Docs Worker](https://github.com/kcwilliamson/smart-docs-worker)
-**Environment-aware documentation personalization**  
-⚡ *Cloudflare Worker*
-
-Detects user's OS, browser, and location to personalize technical documentation. Reduces cognitive load by showing only relevant content - no more "if you're on Mac, do X, if on Windows, do Y."
-
-**Tech:** JavaScript, Cloudflare Workers, Environment Detection
-
----
-
-### 🎉 [Birthday Reminder Worker](https://github.com/kcwilliamson/birthday-reminder-worker)
-**Automated team birthday notifications**  
-⚡ *Cloudflare Worker*
-
-Integrates Google Calendar (iCal) with Google Chat to automatically remind teams of upcoming birthdays. Built to solve a real team problem - keeping distributed teams connected.
-
-**Tech:** JavaScript, Cloudflare Workers, Google Calendar API, Google Chat
-
----
-
-### 📊 [Conference Tracker](https://github.com/kcwilliamson/conference-tracker)
-**Offline-capable booth visitor tracking**  
-[![Live Demo](https://img.shields.io/badge/Live-conference--tracker.pages.dev-F38020?logo=cloudflare&logoColor=white)](https://conference-tracker.pages.dev)
-
-Collect visitor emails and engagement scores at conference booths. Works offline, syncs when online. Built for real-world event constraints with spotty WiFi.
-
-**Tech:** HTML, JavaScript, Service Workers, Offline Support, Cloudflare Pages
-
----
-
-### 🎨 [UX Accelerator Hub](https://github.com/kcwilliamson/UX-Accelorator-Hub)
-**Team asset sharing platform**  
-[![Live Demo](https://img.shields.io/badge/Live-ux--accelerator--hub.pages.dev-F38020?logo=cloudflare&logoColor=white)](https://ux-accelorator-hub.pages.dev)
-
-Example of how I share design assets, templates, and resources with my UX team. Demonstrates my approach to building team efficiency through systematic knowledge sharing.
-
-**Tech:** HTML, CSS, Cloudflare Pages
-
----
-
-### 📋 [Cloudform](https://github.com/kcwilliamson/cloudform)
-**Survey tool for Cloudflare customers**  
-🔧 *In Development*
-
-Building a lightweight survey tool to gather customer feedback directly within Cloudflare workflows.
-
-**Tech:** HTML, JavaScript
 
 ---
 
