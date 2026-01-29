@@ -28,23 +28,9 @@ With over 11 years of experience spanning journalism, marketing, and product UX,
 
 ---
 
-### 💼 [Personal Portfolio 2026](https://github.com/kcwilliamson/portfolio-2026)
-**My professional portfolio showcasing UX Intelligence work**  
-[![Live Demo](https://img.shields.io/badge/Live-katiewilliamsonsebkhi.com-F38020?logo=cloudflare&logoColor=white)](https://katiewilliamsonsebkhi.com)
-
-Comprehensive portfolio highlighting my work in UX Content Strategy, AI/ML projects, CloudSpeaker platform, conversation architecture frameworks, and team leadership.
-
-**Tech:** Astro, TypeScript, Cloudflare Pages
-
----
-
 ## 📫 Let's Connect
 
 I'm always open to connecting with fellow builders, leaders, and innovators.
-
-- 🌐 **Portfolio:** [katiewilliamsonsebkhi.com](https://katiewilliamsonsebkhi.com)
-- 💼 **LinkedIn:** [katie-williamson-sebkhi](https://www.linkedin.com/in/katie-williamson-sebkhi-8787a85b/)
-- 📧 **Email:** thekatiewilliamson@gmail.com
 
 ---
 
