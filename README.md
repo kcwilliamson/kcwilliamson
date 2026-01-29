@@ -12,7 +12,7 @@ I'm a **Strategic Problem Solver who builds systematic solutions**. I don't just
 
 ## 🧪 GitHub as My Laboratory
 
-This GitHub is my **experimentation space** - where I prototype ideas, build tools, and explore the intersection of UX, AI, and technical implementation. You'll find projects ranging from Cloudflare Workers to interactive learning platforms, each solving real problems I've encountered in my work.
+This GitHub is my **experimentation space** - where I prototype ideas, build tools, and explore the intersection of UX, AI, and technical implementation. You'll find projects, prototypes, and ideas ranging from Cloudflare Workers to interactive learning platforms, each solving real problems I've encountered in my work.
 
 I believe in learning by building, and these repositories represent my commitment to continuous growth and hands-on technical exploration.
 
@@ -26,11 +26,6 @@ With over 11 years of experience spanning journalism, marketing, and product UX,
 - **Human Empathy** - User needs, accessibility, conversation architecture
 - **Operational Excellence** - Measurement, governance, scalability
 
-### My Impact at Cloudflare:
-- 📉 **60% reduction** in support tickets through better content
-- 📈 **45% increase** in user engagement
-- 🚀 **3x team scalability** through systematic processes and AI tools
-- 🎯 **100% promotion rate** for team members (1+ year tenure)
 
 ---
 
