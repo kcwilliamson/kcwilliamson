@@ -1,8 +1,8 @@
 # Hi, I'm Katie Williamson Sebkhi 👋
 
-**Director of UX Intelligence | AI Innovation Leader | Team Builder**
+**Director of Product Experience | AI Innovation Leader | Team Builder**
 
-I'm a **Strategic Problem Solver who builds systematic solutions**. I don't just write better words - I build the frameworks, processes, and AI-powered tools that allow organizations to scale clarity and understanding at enterprise level.
+I'm a **Strategic Problem Solver who builds systematic solutions**. I build the frameworks, processes, and AI-powered tools that allow organizations to scale clarity and understanding at enterprise level.
 
 🌐 **Portfolio:** [katiewilliamsonsebkhi.com](https://katiewilliamsonsebkhi.com)  
 💼 **LinkedIn:** [katie-williamson-sebkhi](https://www.linkedin.com/in/katie-williamson-sebkhi-8787a85b/)  
