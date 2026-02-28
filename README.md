@@ -4,5 +4,6 @@ I spend my time making complex digital things feel a little less confusing.
 
 This repo is where I think, prototype, and experiment.
 
-• Katiewilliamsonsebkhi.com
-• thekatiewilliamson@gmail.com 
+
+Katiewilliamsonsebkhi.com
+thekatiewilliamson@gmail.com 
