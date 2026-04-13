@@ -1,10 +1,13 @@
-Hi, I’m Katie.
+# Hi, I'm Katie Williamson.
 
-I spend my time making complex digital things feel a little less confusing.
+I design product experiences, content systems, and AI-ready digital ecosystems that make complex things feel clearer and more useful.
 
-This repo is where I think, prototype, and experiment.
+This profile is also where I share samples of work, experiments, and functioning prototypes.
 
+I'm not a traditional software developer. I use sandbox and playground environments to explore ideas, test product patterns, and build my own point of view through making.
 
-https://katiewilliamsonsebkhi.com/
+A lot of my side projects are lightweight prototypes: ways to keep up with new tools, pressure-test interaction ideas, and turn tinkering into design principles.
 
-thekatiewilliamson@gmail.com 
+[katiewilliamsonsebkhi.com](https://katiewilliamsonsebkhi.com/)
+
+thekatiewilliamson@gmail.com
